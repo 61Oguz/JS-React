@@ -1,0 +1,24 @@
+#root {
+  max-width:max-content;
+  margin: 10px auto ;
+  text-align: center;
+}
+
+.images {
+  height: 250px;
+  width: 300px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 72%;
+  text-align;
+  padding: 10px;
+  margin: 10 auto;
+}
+
+.hero is-success{
+  background-color: aliceblue;
+  color: aliceblue;
+}
