@@ -23,7 +23,9 @@ function App() {
               <Course
                 title="React"
                 description="React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript
-                library for building user interfaces based on components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies."
+                library for building user interfaces based on components. It is maintained by Meta (formerly Facebook)
+                 and a community of individual developers and companies. One of the most used frameworks."
+
                 image={ReactLogo}
               />
             </div>
